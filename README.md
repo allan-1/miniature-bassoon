@@ -1,2 +1,2 @@
 # miniature-bassoon
-pattern drawer
+They draw two beautifull pattern using Turtle module
